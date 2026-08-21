@@ -79,3 +79,10 @@ This repository contains an experimental machine-learning proof of concept using
 ## Author
 
 Adarsha Valli Yeggina
+## Results
+
+### Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+<img width="727" height="647" alt="image" src="https://github.com/user-attachments/assets/fd75aa88-6833-4522-a847-594320934ea7" />
+
